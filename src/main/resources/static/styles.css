@@ -1,0 +1,14 @@
+br {
+    content: "";
+    margin: 1em;
+    display: block;
+    line-height: 1em;
+}
+
+label {
+    font-weight: bold;
+}
+
+.validationError {
+    color: red;
+}
